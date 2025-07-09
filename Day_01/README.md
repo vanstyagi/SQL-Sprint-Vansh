@@ -7,7 +7,8 @@
 ## ✅ Daily Log
 
 ### Day 01  
--  595 - Big Countries (BASIC SELECT)  
--  584 - Find Customer Referee (NULL HANDLING)  
--  183 - Customers Who Never Order (LEFT JOIN)  
--  1757 - Recyclable and Low Fat Products (MULTIPLE WHERE)  
+-  1757 - Recyclable and Low Fat Products  
+-  584 -  Find Customer Referee (NULL HANDLING)  
+-  1667 - Fix Names in a Table  
+-  1873 - Calculate Special Bonus  
+-  196  - Delete Duplicate Emails
