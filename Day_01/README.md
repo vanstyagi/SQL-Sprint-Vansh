@@ -7,8 +7,8 @@
 ## ✅ Daily Log
 
 ### Day 01  
--  1757 - Recyclable and Low Fat Products  
--  584 -  Find Customer Referee (NULL HANDLING)  
--  1667 - Fix Names in a Table  
--  1873 - Calculate Special Bonus  
--  196  - Delete Duplicate Emails
+-  175 - COMBINE TWO TABLES  
+-  196 -  DELETE DUPLICATE EMAILS 
+-  626 - EXCHANGE SEATS 
+-  595 - BIG COUNTRIES  
+-  584  - FIND CUSTOMER REFEREE
