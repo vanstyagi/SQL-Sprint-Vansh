@@ -8,7 +8,6 @@ This repository documents my structured journey of mastering SQL, using a curate
 
 - 📚 Chapter-wise progression for depth-first clarity  
 - 🧹 Clean query structure inside folders  
-- 📖 Book-driven learning (book name not mentioned intentionally)  
 - 🧠 Focused on real-world database query solving  
 
 ---
@@ -37,20 +36,6 @@ Inside every `.sql` file:
 SELECT ...
 ```
 
----
-
-## 🚀 Progress Tracker
-
-| Chapter                        | Questions Curated | Status     |
-|-------------------------------|-------------------|------------|
-| Creating Databases and Tables | ✅                | Preparing  |
-| Intro to SQL                  | ✅                | Preparing  |
-| Data Types                    | ✅                | Preparing  |
-| Joining Tables                | ✅                | Preparing  |
-| Complex Joins                 | ✅                | Preparing  |
-| Comparing Values in MySQL     | ✅                | Preparing  |
-
----
 
 ## ⚙️ Tools Used
 
