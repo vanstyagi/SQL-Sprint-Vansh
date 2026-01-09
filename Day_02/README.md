@@ -1,0 +1,10 @@
+# SQL Sprint - Vansh 
+
+
+## ✅ Daily Log
+
+### Day 02  
+-  1280 - STUDENTS AND EXAMINATION 
+-  1873 - CALCULATE SPECIAL BONUS 
+-  1445 - APPLES AND ORANGES 
+-  627 - SWAP SALARY  
